@@ -1,0 +1,15 @@
+* {
+    background-color: aliceblue;
+}
+
+header {
+    
+    border: 1px solid black;
+    width: 25%;
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+    background-color: yellowgreen;
+}
